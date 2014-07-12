@@ -141,3 +141,10 @@ int main(int argc, const char ** argv) {
     return 0;
 }
 
+
+//The input format for this application is  Edgelist or Adjacency List
+
+
+
+
+
